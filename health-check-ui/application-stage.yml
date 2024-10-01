@@ -1,0 +1,14 @@
+server:
+  port: 9601
+restConnectTime: 3000
+serviceAddressBaseUri: "http://${serviceNode}-internal.vroozi.com"
+webAddressBaseUri: "http://${webNode}-internal.vroozi.com"
+erpAddressBaseUri: "http://${erpNode}-internal.vroozi.com"
+catalogAddressBaseUri: "http://${catalogNode}-internal.vroozi.com"
+storageBaseUri: "https://storage-stage.vroozi.com"
+batchBaseUri: "http://${batchNode}-internal.vroozi.com"
+serviceNode: ${serverName}-service
+webNode: ${serverName}-web
+erpNode: ${serverName}-service
+catalogNode: ${serverName}-catalog
+batchNode: ${serverName}-catalog-1
