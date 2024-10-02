@@ -1,5 +1,5 @@
 serviceNode: ${serverName}-service
-webNode: ${serverName}-web
 erpNode: ${serverName}-service
 catalogNode: ${serverName}-catalog
 batchNode: ${serverName}-catalog-1
+webNode: ${serverName}
