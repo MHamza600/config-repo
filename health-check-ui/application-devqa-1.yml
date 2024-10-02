@@ -1,0 +1,5 @@
+serviceNode: ${serverName}
+webNode: ${serverName}
+erpNode: ${serverName}
+catalogNode: ${serverName}
+batchNode: ${serverName}
