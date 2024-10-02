@@ -1,6 +1,6 @@
 server:
   port: 9601
-restConnectTime: 3000
+restConnectTime: 4000
 serviceAddressBaseUri: "http://${serviceNode}-internal.vroozi.com"
 webAddressBaseUri: "http://${webNode}-internal.vroozi.com"
 erpAddressBaseUri: "http://${erpNode}-internal.vroozi.com"
