@@ -1,4 +1,2 @@
-serviceNode: ${serverName}
-erpNode: ${serverName}
 catalogNode: ${serverName}
 batchNode: ${serverName}
