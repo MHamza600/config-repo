@@ -1,6 +1,6 @@
 spring:
   profiles:
-    include:devqa;
-
+    include: devqa
+    
 catalogNode: ${serverName}
 batchNode: ${serverName}
