@@ -1,2 +1,4 @@
+spring.profiles.include=devqa
+
 catalogNode: ${serverName}
 batchNode: ${serverName}
