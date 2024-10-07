@@ -1,3 +1,5 @@
 webNode: ${serverName}
 serviceNode: ${serverName}
 erpNode: ${serverName}
+catalogNode: ${serverName}-catalog
+batchNode: ${serverName}-catalog-1
