@@ -7,5 +7,5 @@ erpAddressBaseUri: "http://${erpNode}-internal.vroozi.com"
 catalogAddressBaseUri: "http://${catalogNode}-internal.vroozi.com"
 storageBaseUri: "https://storage-stage.vroozi.com"
 batchBaseUri: "http://${batchNode}-internal.vroozi.com"
-
+servicesCount: 10
 batchNode: ${serverName}-server
